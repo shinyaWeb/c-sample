@@ -1,7 +1,7 @@
 # c-sample
 Cのコードをいくつか配置しています。
 ## コード説明
-### 1. least_square_method.c **最小二乗法**  
+### 1. least_square_method.c 最小二乗法  
    2次元データに対して最小二乗法の結果を返します。  
    つまり、2次元データを1次関数  
    <img src="https://latex.codecogs.com/gif.latex?y&space;=&space;ax" title="y = ax" />  
