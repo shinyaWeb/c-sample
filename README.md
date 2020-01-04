@@ -13,7 +13,7 @@ Cのコードをいくつか配置しています。
    ./a.out < hoge.dat
    ```
    hoge.dat には入力する2次元データを例えば
-   ```:hoge.dat
+   ```hoge.dat
    1 1 
    2 2 
    3 3 
